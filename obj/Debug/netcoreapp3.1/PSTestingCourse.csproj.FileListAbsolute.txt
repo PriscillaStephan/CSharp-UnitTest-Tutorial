@@ -1,0 +1,13 @@
+C:\Users\SAMER\source\repos\PSTestingCourse\bin\Debug\netcoreapp3.1\PSTestingCourse.exe
+C:\Users\SAMER\source\repos\PSTestingCourse\bin\Debug\netcoreapp3.1\PSTestingCourse.deps.json
+C:\Users\SAMER\source\repos\PSTestingCourse\bin\Debug\netcoreapp3.1\PSTestingCourse.runtimeconfig.json
+C:\Users\SAMER\source\repos\PSTestingCourse\bin\Debug\netcoreapp3.1\PSTestingCourse.runtimeconfig.dev.json
+C:\Users\SAMER\source\repos\PSTestingCourse\bin\Debug\netcoreapp3.1\PSTestingCourse.dll
+C:\Users\SAMER\source\repos\PSTestingCourse\bin\Debug\netcoreapp3.1\PSTestingCourse.pdb
+C:\Users\SAMER\source\repos\PSTestingCourse\obj\Debug\netcoreapp3.1\PSTestingCourse.csprojAssemblyReference.cache
+C:\Users\SAMER\source\repos\PSTestingCourse\obj\Debug\netcoreapp3.1\PSTestingCourse.AssemblyInfoInputs.cache
+C:\Users\SAMER\source\repos\PSTestingCourse\obj\Debug\netcoreapp3.1\PSTestingCourse.AssemblyInfo.cs
+C:\Users\SAMER\source\repos\PSTestingCourse\obj\Debug\netcoreapp3.1\PSTestingCourse.csproj.CoreCompileInputs.cache
+C:\Users\SAMER\source\repos\PSTestingCourse\obj\Debug\netcoreapp3.1\PSTestingCourse.dll
+C:\Users\SAMER\source\repos\PSTestingCourse\obj\Debug\netcoreapp3.1\PSTestingCourse.pdb
+C:\Users\SAMER\source\repos\PSTestingCourse\obj\Debug\netcoreapp3.1\PSTestingCourse.genruntimeconfig.cache
